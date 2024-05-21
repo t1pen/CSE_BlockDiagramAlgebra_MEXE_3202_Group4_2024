@@ -30,14 +30,16 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 <p align="center">
   The pictures below are the step response of the given block diagram from MATLAB (<i>Left</i>) and Simulink (<i>Right</i>)
 
-  ![imagetitle](url)
+  ![image](https://github.com/t1pen/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/157614863/2a0bbf0d-9271-4f79-9809-b660094f7ae2)
+
 <br>
 <br>
 
 <p align="center">
   The pictures below are the step response of the given block diagram from Simulink (<i>Left</i>) and Manual Computation (<i>Right</i>)
 
-  ![imagetitle](url)
+  ![hey](https://github.com/t1pen/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/157614863/abc14f06-f2dc-4d64-a097-d712b95f06e2)
+
 <br>
 <br>
 
