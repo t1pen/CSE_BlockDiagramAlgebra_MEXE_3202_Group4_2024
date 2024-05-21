@@ -5,7 +5,10 @@
 ## Table of Contents
   - [Block Diagram No. 1](#block-diagram-no-1)
       - [1. Step Response](#1-step-response)
+      - [2. Manual Computation](#2-manual-computation)
   - [Block Diagram No. 2](#block-diagram-no-2)
+      - [1. Step Response](#1-step-response)
+      - [2. Manual Computation](#2-manual-computation)
 <hr> 
 <br>
 
