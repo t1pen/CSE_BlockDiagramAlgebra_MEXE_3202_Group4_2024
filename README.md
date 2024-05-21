@@ -2,6 +2,13 @@
 <h2 align="center">Group 4 - MEXE-3202</h2>
 <br>
 
+## Table of Contents
+  - [Block Diagram No. 1](#block-diagram-no-1)
+      - [1. Step Response](#1-step-response)
+  - [Block Diagram No. 2](#block-diagram-no-2)
+<hr> 
+<br>
+
 
 This is a repository for the Laboratory Activity 3 in the course ENG 425 - Control System Engineering 
 <br>
@@ -11,6 +18,8 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 <p align="center">
   <img src="" style="height: 100px;"></p>
 </div>
+<br>
+<br>
 
 
 ### 1. Step Response
@@ -41,6 +50,12 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 
 
 ## Block Diagram No. 2
+<p align="center">
+  <img src="" style="height: 100px;"></p>
+</div>
+<br>
+<br>
+
 ### 1. Step Response
 
 <p align="center">
