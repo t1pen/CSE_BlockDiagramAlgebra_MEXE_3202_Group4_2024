@@ -8,6 +8,11 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 <br>
 
 ## Block Diagram No. 1
+<p align="center">
+  <img src="" style="height: 100px;"></p>
+</div>
+
+
 ### 1. Step Response
 <p align="center">
   The pictures below are the step response of the given block diagram from MATLAB (<i>Left</i>) and Simulink (<i>Right</i>)
