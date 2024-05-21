@@ -1,4 +1,11 @@
+<h1 align="center">Laboratory No. 3 - Block Diagram Algebra</h1>
+<h2 align="center">Group 4 - MEXE-3202</h2>
+<br>
+
+
 This is a repository for the Laboratory Activity 3 in the course ENG 425 - Control System Engineering 
+<br>
+<br>
 
 ## Block Diagram No. 1
 ### 1. Step Response
