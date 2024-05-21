@@ -85,6 +85,10 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 <br>
 <br>
 
+<p align="center">
+  <img src="https://github.com/t1pen/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/157677365/5d084184-0318-4cbe-b862-e634e6d69160" style="height: 1300px;"></p>
+</div>
+<br>
 
 
 ### Group Members:
