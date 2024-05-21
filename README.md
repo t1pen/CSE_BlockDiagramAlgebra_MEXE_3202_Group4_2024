@@ -48,7 +48,7 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 <p align="center">
   The pictures below are the manual reduction and computation of the given block diagram
 <p align="center">
-  <img src="https://github.com/t1pen/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/157614915/c5d007f6-4883-45d8-8336-759a21bde960" alt="imagtitle" style="width: 45%; float: left;">
+  <img src="" alt="imagtitle" style="width: 45%; float: left;">
 </div>
 <br>
 <br>
@@ -57,7 +57,7 @@ This is a repository for the Laboratory Activity 3 in the course ENG 425 - Contr
 
 ## Block Diagram No. 2
 <p align="center">
-  <img src="" style="height: 400px;"></p>
+  <img src="https://github.com/t1pen/CSE_BlockDiagramAlgebra_MEXE_3202_Group4_2024/assets/157614915/c5d007f6-4883-45d8-8336-759a21bde960" style="height: 400px;"></p>
 </div>
 <br>
 <br>
